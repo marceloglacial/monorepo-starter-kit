@@ -1,0 +1,12 @@
+{
+  "name": "monorepo-starter-kit",
+  "version": "1.0.0",
+  "repository": "https://github.com/marceloglacial/monorepo-starter-kit.git",
+  "author": "marceloglacial <glacial@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "app/*",
+    "packages/*"
+  ]
+}
